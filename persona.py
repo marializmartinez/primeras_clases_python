@@ -1,5 +1,5 @@
 # esto es una prueba
-print ("Chau mundo")
+print ("Qué tal mundo")
 print ("Chauuuuuuuu")
 
 
